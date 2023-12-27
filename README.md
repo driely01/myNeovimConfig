@@ -1,3 +1,4 @@
 # myNeovimConfiig
-my neovim config
-![SharedScreenshot](https://github.com/driely01/myNeovimConfiig/assets/41493879/da285480-934f-4be0-b580-52ee5949ae2f)
+how it's look like
+
+![SharedScreenshot](https://github.com/driely01/myNeovimConfiig/assets/41493879/85541855-e2c2-4d38-8a10-65fd05cbf111)
